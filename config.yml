@@ -1,0 +1,32 @@
+input_dir: "input/"
+result_dir: "output/"
+directories:
+  oraxen:
+    items:
+      - "armor"
+      - "furniture"
+    money:
+      - "plants"
+  vanilla:
+    items:
+      - "horse_armor"
+    money:
+materials:
+  steel:
+    id: "PAPER"
+    model_data: 1047
+  bear_leather:
+    id: "PAPER"
+    model_data: 1388
+  knight2_helmet:
+    id: "LEATHER_HELMET"
+    model_data: 1006
+  knight2_chestplate:
+    id: "LEATHER_CHESTPLATE"
+    model_data: 1006
+  knight2_leggings:
+    id: "LEATHER_LEGGINGS"
+    model_data: 1006
+  knight2_boots:
+    id: "LEATHER_BOOTS"
+    model_data: 1006
